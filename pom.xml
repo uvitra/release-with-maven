@@ -5,7 +5,7 @@
 
   <groupId>com.example</groupId>
   <artifactId>release-with-maven</artifactId>
-  <version>1.1-SNAPSHOT</version>
+  <version>1.1</version>
 
   <name>release-with-maven</name>
   <!-- FIXME change it to the project's website -->
@@ -37,7 +37,7 @@
   <scm>
     <developerConnection>scm:git:https://github.com/uvitra/release-with-maven.git</developerConnection>
     <url>https://github.com/uvitra/release-with-maven</url>
-    <tag>HEAD</tag>
+    <tag>release-with-maven-1.1</tag>
   </scm>
 
   <build>
